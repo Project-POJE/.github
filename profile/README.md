@@ -86,6 +86,13 @@
 <br>
 <br>
 
+# ERD
+<div align="center"><img src='https://user-images.githubusercontent.com/66125391/235106673-5179c4a1-634d-4890-8982-c1249ad5755d.png' width='800px' height='600px'>
+</div>
+
+<br>
+<br>
+
 # 아키텍처
 <div align="center"><img src='https://user-images.githubusercontent.com/66125391/230608828-49ee0aef-4c67-4a38-aa92-987546aa9392.png' width='600px' height='400px'></div>
 
